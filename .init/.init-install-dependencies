@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/react-quiz-builder-and-tester-201741-201751/quiz_frontend"
+}
